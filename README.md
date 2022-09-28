@@ -9,3 +9,4 @@ In this project I wrote the program to download the instagram profile pics,profi
 #### -> For public profiles you need not login in terminal.you can skip it 
 #### -> you cant download anything of private profile which you wont follow other than profile picture.
 
+##### Creator: Ayush Jha (ig:@itsmeoberoy)
